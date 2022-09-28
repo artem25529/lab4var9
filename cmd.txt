@@ -1,0 +1,2 @@
+idlj -fall parall.idl
+start tnameserv -ORBInitPort 900

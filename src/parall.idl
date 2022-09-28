@@ -1,0 +1,5 @@
+module parall {
+    interface ParallMover {
+        void moveParall(in double x, in double y, in double z);
+    };
+};
